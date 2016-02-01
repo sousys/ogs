@@ -1,8 +1,6 @@
 #!/usr/bin/python
 
-
 import requests   # Install this module with "pip install requests"
-import json
 '''
  ogs_credentials.py is in the same place as this script and looks like this (censored because MAH KEYS):
 
